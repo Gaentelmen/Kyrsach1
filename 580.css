@@ -1,0 +1,93 @@
+@media only screen and (max-width:660px) {
+  h2{
+    position: relative;
+    font-size: 0.8em;
+    line-height: 2vh;
+  }
+
+  .b43{
+    line-height: 0.8em;
+    top: 13vh;
+    font-size: 0.8em;
+  
+  }
+  .b45{
+    line-height: 0.8em;
+    top: 40vh;
+    font-size: 0.8em;
+  
+  }
+  .b47{
+    line-height: 0.8em;
+    top: 64vh;
+    font-size: 0.8em;
+  }
+  .b21{
+    font-size: 0.8em;
+    margin-left: 3.5vw;
+    height: 5vh;
+  }
+  .R1{
+    width: 22vw;
+    height: 14vh;
+    left: 2%;
+    }
+    .R2{
+    width: 54.8vw;
+    height: 14vh;
+    left: 30%;
+    }
+    .T1{
+    width: 53.2vw;
+    height: 28vh;
+    top: 1vh;
+    font-size: 0.7em;
+    line-height: 0.85em;
+    }
+    .k1{
+    width: 20.9vw;
+    height: 13.3vh;
+    }
+    .O1{
+      box-sizing: border-box;
+      margin-top: 5vh;
+    }
+    .O2{
+      box-sizing: border-box;
+      margin-top: 25vh;
+    }
+    .O3{
+      box-sizing: border-box;
+      margin-top: 45vh;
+    }
+    .O4{
+      box-sizing: border-box;
+      margin-top: 65vh;
+    }
+    .O5{
+      box-sizing: border-box;
+      margin-top: 85vh;
+    }
+    .O6{
+      box-sizing: border-box;
+      margin-top: 105vh;
+    }
+    .O7{
+      box-sizing: border-box;
+      margin-top: 125vh;
+    }
+    .telo{
+      position: absolute;
+      margin-left: 8%;
+      margin-right: 8%;
+      width: 83vw;
+      height: 160vh;
+      background: url(Kartinki/zadni2.png);
+    }
+    .fyt{
+    top: 160vh;
+    height: 15vh;
+    left: -3vw;
+    width: 110%;
+    }
+}

@@ -1,0 +1,255 @@
+@media only screen and (max-width:1009px) {
+  header{
+    flex-direction: column;
+    align-items: flex-start;
+    height: 15vh;
+    width: 110%;
+  }
+
+   .b1{
+    position: absolute;
+    margin-left: 12%;
+    margin-right: 8%;
+    width: 83vw;
+    height:  241vh;
+   }
+.NM{
+  left: 70vw;
+}
+.image_2 {
+  position: absolute;
+  left: 78.5vw;
+  top: 2vh;
+}
+.Knom {
+  top: 2vh;
+}
+.Nom{
+  top: 6.5vh;
+}
+.a2{
+  position: absolute;
+  top: 2.5vh;
+  left: 15%;
+  font-size: 2em;
+  line-height: 125%;
+}
+.a3{
+  position: absolute;
+  width: 6.7em;
+  left: 50vw;
+  top: -2vh;
+  border-radius: 100vw;
+}
+.n1{
+  display: none;
+}
+.b1-1{
+  display: none;
+}
+.b11{
+  height: 13vh;
+margin-right:1vh ;
+margin-left: 2vh;
+margin-top: 2vh;
+}
+.b1234{
+  margin-top: 0.8vh;
+  font-size: 1.2em;
+}
+.b2{
+  height: 6vh;
+    margin-left: 8vw;
+    margin-right: 8vw;
+}
+.b21{
+  font-size: 1.2em;
+  margin-left: 4vw;
+  height: 5vh;
+}
+
+h2{
+  position: relative;
+  font-size: 1.1em;
+  line-height: 2.5vh;
+}
+.b31{
+  height: 2vh;
+  left: 10%;
+  top: 4vh;
+  font-size: 1.3em;
+  line-height: 3vh;
+  display: flex;
+}
+.b41{
+  height: 5vh;
+  left: 10%;
+  top: 4vh;
+  font-size: 1.2em;
+  line-height: 3vh;
+  display: flex;
+}
+
+.b43{
+  line-height: 1em;
+  top: 13vh;
+  font-size: 1em;
+
+}
+.b45{
+  line-height: 1em;
+  top: 40vh;
+  font-size: 1em;
+
+}
+.b47{
+  line-height: 1em;
+  top: 64vh;
+  font-size: 1em;
+
+}
+.b61{
+    top: -8vh;
+    left: 34%;
+    font-size: 2.2em;
+    line-height: 3.5vh;
+
+}
+.b62{
+  width: 25.9%;
+  height: 29.3vh;
+  top: 3vh;
+  margin-left: -1%;
+}
+.b622{
+  left: 22%;
+  font-size: 1.2em;
+}
+.b63{
+  width: 25.9%;
+  height: 29.3vh;
+  left: 4%;
+  top: 41vh;
+}
+.b632{
+  font-size: 1.2em;
+  top: 13vh;
+}
+.b64{
+  width: 25.9%;
+  height: 29.3vh;
+  left: 57%;
+  top: 65vh;
+}
+.b642{
+  margin-top: 13vh;
+  font-size: 1.2em;
+}
+footer{
+  height: 16vh;
+  width: 109vw;
+  top: 241vh;
+}
+.f1{
+  font-size: 1em;
+  line-height: 1.2em;
+left: 37vw;
+}
+.f{
+  font-size: 0.7em;
+  line-height: 1.2em;
+  left: 10vw;
+  right: 88vw;
+}
+.f2{
+  right: 20vw;
+  left: 70vw;
+  font-size: 0.9em;
+  line-height: 0.9em;
+}
+.f3{
+  position: absolute;
+  width: 6vw;
+  top: 2vh;
+  right: 14vw;
+}
+.f4{
+display: flex;
+width: 8vw;
+top: 4vh;
+right: 14vw;
+}
+.f5{
+  display: flex;
+  width: 5vw;
+  top: 5vh;
+  right: 12vw;
+}
+
+
+
+
+.R1{
+width: 22vw;
+height: 16vh;
+left: 2%;
+}
+.R2{
+width: 54.8vw;
+height: 16vh;
+left: 30%;
+}
+.T1{
+width: 53.2vw;
+height: 28vh;
+top: 1vh;
+font-size: 0.85em;
+line-height: 0.85em;
+}
+.k1{
+width: 20.7vw;
+height: 14.7vh;
+}
+.O1{
+  box-sizing: border-box;
+  margin-top: 5vh;
+}
+.O2{
+  box-sizing: border-box;
+  margin-top: 27vh;
+}
+.O3{
+  box-sizing: border-box;
+  margin-top: 48vh;
+}
+.O4{
+  box-sizing: border-box;
+  margin-top: 68vh;
+}
+.O5{
+  box-sizing: border-box;
+  margin-top: 88vh;
+}
+.O6{
+  box-sizing: border-box;
+  margin-top: 108vh;
+}
+.O7{
+  box-sizing: border-box;
+  margin-top: 128vh;
+}
+.telo{
+  position: absolute;
+  margin-left: 8%;
+  margin-right: 8%;
+  width: 83vw;
+  height: 170vh;
+  background: url(Kartinki/zadni2.png);
+}
+.fyt{
+top: 170vh;
+height: 16vh;
+left: -3vw;
+width: 110%;
+}
+}
